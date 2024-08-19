@@ -130,3 +130,5 @@ dmypy.json
 
 --Frag*
 *.wav
+start.bat
+start_steam_translator.py
